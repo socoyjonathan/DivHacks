@@ -1,2 +1,2 @@
-# DivHacks
-DivHacks Project with Next.js
+# PollutedNYC
+2022 DivHacks Project 
